@@ -5,6 +5,7 @@ Task 1:-
 File name: vpc.docx
 
 network topology diagram: kinesso_test.jpg
+                          SSO.PDF (Lucid chart)
 
 
 Task2: -
